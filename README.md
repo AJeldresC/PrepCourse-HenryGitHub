@@ -1,2 +1,2 @@
-# PrepCourse-HenryGitHub
-Este es un repositorio de prueba del Módulo 2 del PrepCourse de Henry.
+Alex Jeldres Cifuentes
+Este es un proyecto de prueba sobre cómo crear un repositorio y clonarlo desde github a mi escritorio local, para luego, subir los respectivos cambios al repositorio original.
